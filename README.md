@@ -3,7 +3,6 @@
 Soy Jose Ingunza, desarrollador full stack formado en 4Geeks Academy. En estos últimos meses he ingresado en el apasionante mundo de la programación y en esta página personal de Github se encuentra todo mi progreso y proyectos realizados durante mi aprendizaje.
 
 
-
 <!--
 **jingunza/jingunza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
