@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Soy Jose Ingunza, desarrollador full stack formado en 4Geeks Academy. En estos últimos meses he ingresado en el apasionante mundo de la programación y en esta página personal de Github se encuentra todo mi progreso y proyectos realizados durante mi aprendizaje.
+I'm Jose Ingunza, a full stack developer trained in bootcamp and self-taught. Currently pursuing a Meta certification. In these last months he entered the exciting world of programming and in this personal Github page you can find all my progress and projects carried out during my apprenticeship.
+
+Soy Jose Ingunza, desarrollador full stack formado en bootcamp y de forma autodidacta. Actualmente cursando una certificacion de Meta. En estos últimos meses ingresó en el apasionante mundo de la programación y en esta página personal de Github se encuentra todo mi progreso y proyectos realizados durante mi aprendizaje.
 
 
 <!--
